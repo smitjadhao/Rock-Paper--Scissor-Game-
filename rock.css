@@ -1,0 +1,63 @@
+body{
+  background-color:lab(from color 2 a b);
+  background:linear-gradient(90deg,rgb(146, 227, 226),rgb(147, 149, 85));
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 200px;
+
+  text-align: center;
+
+ 
+
+}
+.p1{
+  font-size: 30px;
+  font-weight: bold;
+  color: black
+  
+
+
+}
+.rock-btn{
+height: 100px;
+width: 100px;
+border-radius: 60px;
+border: none;
+border-color:rebeccapurple;
+}
+.paper-btn{
+   height: 100px;
+width: 100px;
+border-radius: 60px;
+border: none;
+  
+}
+.scissor-btn{
+   height: 100px;
+width: 100px;
+border-radius: 60px;
+  border: none;
+}
+.js-result{
+   font-size: x-large;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   
+}
+.js-win{
+   color: green;
+}
+
+.reset-btn{
+   height: 40px;
+   width: 200px;
+
+}
+.rock-paper{
+ box-sizing: content-box; 
+ 
+
+}
+
+*{
+   box-sizing: border-box;
+}
